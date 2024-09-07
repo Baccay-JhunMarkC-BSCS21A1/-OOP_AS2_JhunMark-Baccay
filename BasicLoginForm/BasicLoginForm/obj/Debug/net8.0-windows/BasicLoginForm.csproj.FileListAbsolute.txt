@@ -1,0 +1,16 @@
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\bin\Debug\net8.0-windows\BasicLoginForm.exe
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\bin\Debug\net8.0-windows\BasicLoginForm.deps.json
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\bin\Debug\net8.0-windows\BasicLoginForm.runtimeconfig.json
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\bin\Debug\net8.0-windows\BasicLoginForm.dll
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\bin\Debug\net8.0-windows\BasicLoginForm.pdb
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\obj\Debug\net8.0-windows\BasicLoginForm.Form1.resources
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\obj\Debug\net8.0-windows\BasicLoginForm.csproj.GenerateResource.cache
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\obj\Debug\net8.0-windows\BasicLoginForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\obj\Debug\net8.0-windows\BasicLoginForm.AssemblyInfoInputs.cache
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\obj\Debug\net8.0-windows\BasicLoginForm.AssemblyInfo.cs
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\obj\Debug\net8.0-windows\BasicLoginForm.csproj.CoreCompileInputs.cache
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\obj\Debug\net8.0-windows\BasicLoginForm.dll
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\obj\Debug\net8.0-windows\refint\BasicLoginForm.dll
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\obj\Debug\net8.0-windows\BasicLoginForm.pdb
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\obj\Debug\net8.0-windows\BasicLoginForm.genruntimeconfig.cache
+C:\Users\jhunm\source\repos\BasicLoginForm\BasicLoginForm\obj\Debug\net8.0-windows\ref\BasicLoginForm.dll
